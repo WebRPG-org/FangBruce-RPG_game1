@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"城鎮","order":2,"parentId":5,"scrollX":1081.3333333333333,"scrollY":1084},
+{"id":2,"expanded":true,"name":"城堡","order":7,"parentId":5,"scrollX":1081.3333333333333,"scrollY":993.3333333333334},
+{"id":3,"expanded":false,"name":"大房子 1F","order":8,"parentId":2,"scrollX":1081.3333333333333,"scrollY":842.6666666666666},
+{"id":4,"expanded":false,"name":"大房子 2F","order":9,"parentId":2,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":5,"expanded":true,"name":"主世界","order":1,"parentId":0,"scrollX":3388.5,"scrollY":1830},
+{"id":6,"expanded":false,"name":"旅館 2F","order":4,"parentId":1,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":7,"expanded":false,"name":"武器商店","order":5,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"旅館 1F","order":3,"parentId":1,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":9,"expanded":false,"name":"房子 1","order":6,"parentId":1,"scrollX":832,"scrollY":640}
+]
